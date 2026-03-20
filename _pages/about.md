@@ -8,51 +8,71 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
+# 👨‍💻 About Me
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am an Assistant Professor / Associate Research Fellow at the International Frontier Interdisciplinary Research Institute (IFIRI), Wenzhou-Kean University (WKU). I received my Ph.D. degree in Electronic Information from Zhejiang University (ZJU) in 2023, and my B.Eng. degree from University of Electronic Science and Technology of China (UESTC) in 2018. I was also a visiting exchange student at National Ilan University (NIU) in 2016. Before joining WKU, I worked as a Senior Research Specialist at Zhejiang Lab from 2023 to 2026.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+My research focuses on artificial intelligence and scheduling optimization, with particular interest in resource allocation for multi-agent systems and large language model (LLM) training and inference. I aim to develop efficient and scalable algorithms for complex, large-scale systems, bridging theoretical optimization with real-world intelligent computing applications.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.03*: &nbsp;🎉 Started my faculty position as an Assistant Professor / Associate Research Fellow at the International Frontier Interdisciplinary Research Institute (IFIRI), Wenzhou-Kean University. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **Haoyi Niu**, Feng Gao\*, Beibei Zhang, Wenxiu Zhuang, Tian Xiang, Xiangming Xi. *Prompt2Length: A Lightweight Model for Predicting Output Length in LLM Inference*. IEEE International Conference on Artificial Intelligence, Automation and High Performance Computing (AIAHPC), 2025.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- **Haoyi Niu**, Xiangming Xi, Tian Xiang, Beibei Zhang, Tao Zou, Feng Gao\*. *JDPMHF: A Novel Framework for Job Duration Prediction to Enhance Scheduling in GPU Clusters*. CCF Computility, 2025. (**Best Paper Award**)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- **Haoyi Niu**, Lu Lin, Xiangming Xi, Beibei Zhang, Tao Zou, Feng Gao\*. *Prediction on Model Inference Output Length in Ubiquitous Computing Environment*. Acta Electronica Sinica, 2025.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- Wenxiu Zhuang, Guangyu Wu, **Haoyi Niu**, Wei Song\*. *Event-Triggered Robust Cooperative Output Regulation with Hybrid Design Framework*. IEEE International Conference on Industrial Electronics and Applications (ICIEA), 2024.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Haoyi Niu**, Weimin Wu\*, Zichao Xing, Xingkai Wang, Tao Zhang. *A Novel Multi-Tasks Chain Scheduling Algorithm Based on Capacity Prediction for AGV Dispatching in Intelligent Manufacturing Systems*. Journal of Manufacturing Systems, 2023.
+
+- **Haoyi Niu**, Weimin Wu\*, Tingqi Zhang, Wei Shen, Tao Zhang. *Adaptive salp swarm algorithm for solving FJSP with transportation time*. Journal of Zhejiang University (Engineering Science), 2022.
+
+- Wei Shen, Weimin Wu\*, **Haoyi Niu**. *Multi-Objective Fuzzy Flexible Job Shop Scheduling Optimization Based on Hybrid Non-Dominated Sorting Algorithm*. IEEE International Conference on Networking, Sensing and Control (ICNSC), 2022.
+
+- **Haoyi Niu**, Yuqi Huang\*. *Application of Phase-Averaged Pre-processing in Identifying Oscillatory Two-Phase Flow Patterns Based on Textural Features*. Flow Measurement and Instrumentation, 2021.
+
+- Yuqi Huang, Dominique H. Li\*, **Haoyi Niu**, Donatello Conte. *Visual Identification of Oscillatory Two-Phase Flow with Complex Flow Patterns*. Measurement, 2021. 
+
+- **Haoyi Niu**, Zichao Xing, Xingkai Wang, Weimin Wu\*, Tao Zhang. *A Flexible Multi-AGV Scheduling Model with Pre-waiting Time in Intelligent Manufacturing Systems*. IEEE International Conference on Networking, Sensing and Control (ICNSC), 2021.
+
+- **Haoyi Niu**, Weimin Wu\*, Tao Zhang. *A Hierarchical Charging Algorithm for AGV Dispatching in Multi-Robot Systems*. IEEE International Conference on Networking, Sensing and Control (ICNSC), 2021.
+
+- Zichao Xing, Weimin Wu\*, **Haoyi Niu**, Ruifen Hu. *Battery Charge Dispatching in Multi-Robot Systems*. IEEE International Conference on Networking, Sensing and Control (ICNSC), 2021.
+
+- **Haoyi Niu**, Xinyu Chen, Weimin Wu\*, Tao Zhang. *A Logistics Vehicle Scheduling Model Based on Multi-Stage Dynamic Decision Mechanism*. Chinese Process Control Conference (CPCC), 2021.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.11*,&nbsp;Outstanding Graduate Academic Scholarship, Zhejiang University.  
+- *2019.12*,&nbsp;Outstanding Graduate Student Leader, Zhejiang University.  
+- *2019.12*,&nbsp;Outstanding Graduate Student, Zhejiang University.  
+- *2018.12*,&nbsp;Graduate Academic Scholarship, Zhejiang University.  
+- *2018.05*,&nbsp;Outstanding Undergraduate Thesis, School of Automation Engineering, University of Electronic Science and Technology of China.
+- *2017.12*,&nbsp;National Scholarship for Undergraduate Students (**Ministry of Education, China**).  
+- *2017.12*,&nbsp;Outstanding Graduate, University of Electronic Science and Technology of China.  
+- *2017.09*,&nbsp;**First Prize**, Final of the 12th National Undergraduate Intelligent Vehicle Competition (**Chinese Association of Automation**).  
+- *2017.06*,&nbsp;**First Prize**, Western Regional Competition of the 12th National Undergraduate Intelligent Vehicle Competition (**Chinese Association of Automation**).  
+- *2017.05*,&nbsp;Second Prize, Sichuan Provincial Undergraduate Intelligent Vehicle Competition.  
+- *2016.12*,&nbsp;Special Scholarship (**Top Award**), University of Electronic Science and Technology of China.  
+- *2016.12*,&nbsp;Eagle Scholarship, School of Automation Engineering, University of Electronic Science and Technology of China.  
+- *2016.05*,&nbsp;Outstanding Youth League Leader, University of Electronic Science and Technology of China.
+- *2015.12*,&nbsp;First-Class Scholarship, University of Electronic Science and Technology of China.  
+- *2014.12*,&nbsp;Second-Class Scholarship, University of Electronic Science and Technology of China. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.01 – 2023.06*, Ph.D. in Electronic Information, College of Control Science and Engineering, Zhejiang University, Hangzhou, China.  
+- *2018.09 – 2020.01*, M.S. in Power Machinery and Engineering, College of Energy Engineering, Zhejiang University, Hangzhou, China.  
+- *2016.09 – 2017.01*, Visiting Exchange Student, Department of Electrical Engineering, National Ilan University, Yilan, China.
+- *2014.09 – 2018.06*, B.Eng. in Measurement and Control Technology and Instrumentation, School of Automation and Engineering, University of Electronic Science and Technology of China, Chengdu, China.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025.09*,&nbsp;Presented the paper *"Prompt2Length: A Lightweight Model for Predicting Output Length in LLM Inference"* at the 5th International Conference on Artificial Intelligence, Automation and High Performance Computing (AIAHPC 2025), Hefei, China.
+- *2025.07*,&nbsp;Presented the paper *"JDPMHF: A Novel Framework for Job Duration Prediction to Enhance Scheduling in GPU Clusters"* via poster at CCF COMPUTILITY 2025, Lanzhou, China.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 👥 Services
+
+I have served as a **peer reviewer** for several renowned international journals (**Computers & Industrial Engineering**, **Soft Computing**, **Journal of Remanufacturing**, **Discover Applied Sciences**) and conferences (**IEEE INFOCOM**, **NeurIPS**).
