@@ -16,7 +16,7 @@ I am an Assistant Professor / Associate Research Fellow at the International Fro
 My research focuses on artificial intelligence and scheduling optimization, with particular interest in resource allocation for multi-agent systems and large language model (LLM) training and inference. I aim to develop efficient and scalable algorithms for complex, large-scale systems, bridging theoretical optimization with real-world intelligent computing applications.
 
 # 🔥 News
-- *2026.03*: &nbsp;🎉 Started my faculty position as an Assistant Professor / Associate Research Fellow at the International Frontier Interdisciplinary Research Institute (IFIRI), Wenzhou-Kean University. 
+- *2026.03*: &nbsp;🎉 Started my faculty position at the International Frontier Interdisciplinary Research Institute (IFIRI), Wenzhou-Kean University. 
 
 # 📝 Publications 
 
