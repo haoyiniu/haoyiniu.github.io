@@ -24,7 +24,7 @@ My research focuses on artificial intelligence and scheduling optimization, with
 
 - **Haoyi Niu**, Xiangming Xi, Tian Xiang, Beibei Zhang, Tao Zou, Feng Gao\*. *JDPMHF: A Novel Framework for Job Duration Prediction to Enhance Scheduling in GPU Clusters*. CCF Computility, 2025. (**Best Paper Award**)
 
-- **Haoyi Niu**, Lu Lin, Xiangming Xi, Beibei Zhang, Tao Zou, Feng Gao\*. *Prediction on Model Inference Output Length in Ubiquitous Computing Environment*. Acta Electronica Sinica, 2025.
+- **Haoyi Niu**, Lu Lin, Xiangming Xi, Beibei Zhang, Tao Zou, Feng Gao\*. *Prediction on Model Inference Output Length in Ubiquitous Computing Environment*. Acta Electronica Sinica, 2025. (Accepted)
 
 - Wenxiu Zhuang, Guangyu Wu, **Haoyi Niu**, Wei Song\*. *Event-Triggered Robust Cooperative Output Regulation with Hybrid Design Framework*. IEEE International Conference on Industrial Electronics and Applications (ICIEA), 2024.
 
