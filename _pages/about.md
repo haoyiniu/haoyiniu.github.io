@@ -16,6 +16,8 @@ I am an Assistant Professor / Associate Research Fellow at the International Fro
 My research focuses on artificial intelligence and scheduling optimization, with particular interest in resource allocation for multi-agent systems and large language model (LLM) training and inference. I aim to develop efficient and scalable algorithms for complex, large-scale systems, bridging theoretical optimization with real-world intelligent computing applications.
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉 My student Jiayi Tian won **Third Prize** at the Tencent Cloud Game Development Hackathon (Wenzhou) with *Old Fire Trace*, an AI-assisted narrative mystery game that invites players to revisit a 1998 fire through archival evidence, field interviews, and timeline reconstruction. [[Play the Game]](https://old-fire-trace-demo.vercel.app)
+
 - *2026.04*: &nbsp;Zhenfeng Zhang, Member of the Standing Committee of the CPC Zhejiang Provincial Committee and Secretary of the CPC Wenzhou Municipal Committee, visited the IFIRI at WKU. [[News]](https://mp.weixin.qq.com/s/dh3iK-JCjAfdj4M0j3cOzA)
 
 - *2026.03*: &nbsp;🎉 Started my faculty position at the International Frontier Interdisciplinary Research Institute (IFIRI), Wenzhou-Kean University. 
