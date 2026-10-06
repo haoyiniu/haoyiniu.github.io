@@ -1,0 +1,18 @@
+[tools]
+ruby = "3.3.12"
+
+[env]
+_.path = ".tools"
+PAGES_DISABLE_NETWORK = "true"
+
+[tasks.setup]
+description = "Install the Ruby gems required by the site"
+run = "bundle install"
+
+[tasks.build]
+description = "Build the Jekyll site into _site"
+run = "bundle exec jekyll build"
+
+[tasks.serve]
+description = "Preview the site at http://127.0.0.1:4000 with live reload"
+run = "bundle exec jekyll serve --livereload --host 127.0.0.1"

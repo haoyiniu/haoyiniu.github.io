@@ -1,3 +1,26 @@
 _site/
 push.sh
 .DS_Store
+
+# Ruby / Jekyll dependencies
+/vendor/
+.bundle/
+.tools/
+.ruby-version
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+*~
+
+# OS generated files
+Thumbs.db
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
